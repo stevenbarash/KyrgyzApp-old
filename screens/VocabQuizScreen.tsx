@@ -61,7 +61,6 @@ const VocabQuizScreen = props => {
               height={150}
               width={150}
             >
-              x`{" "}
               <Image
                 style={styles.imgStyle}
                 source={require("../assets/dog.jpg")}
