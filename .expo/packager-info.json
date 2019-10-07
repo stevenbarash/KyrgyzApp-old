@@ -1,16 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-<<<<<<< HEAD
-  "packagerPid": 6096,
-  "expoServerNgrokUrl": "https://ki-nv4.anonymous.kyrgyzapp.exp.direct",
-  "packagerNgrokUrl": "https://packager.ki-nv4.anonymous.kyrgyzapp.exp.direct",
-  "ngrokPid": 9924
-=======
-  "packagerPid": 26586,
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
   "expoServerNgrokUrl": null,
   "packagerNgrokUrl": null,
   "ngrokPid": null
->>>>>>> fe74c021031158266d29ccb65c9ae30cff1233cf
 }
